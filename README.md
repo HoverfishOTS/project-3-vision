@@ -18,7 +18,7 @@ Ask your instructor if stuck.
 | Week | Tasks |
 |------|-------|
 | 1 | Learn basics of computer vision and image-based emotion recognition |
-| 2 | Select labeled image dataset (FER-2013). Load directories |
+| 2 | Select labeled image dataset (FER-2013). Load directories & Start literature review (1 or 2 references) |
 | 3 | Explore image data: size, labels, class balance, examples |
 | 4 | Preprocess images: resize, convert to grayscale, normalize pixels |
 | 5 | Create baseline model using simple features or MLP |
